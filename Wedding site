@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Rodel Doria | Fitbit</title></head>
+  <body>
+    <header>
+      <a href="index.html">
+        <h1>Rodel Doria</h1>
+        <h2>Fitbit Runner</h2>
+       </a>
+       <nav>
+         <ul>
+           <li><a href="index.html">Portfolio</a></li>
+           <li><a href="about.html">About</a></li>
+           <li><a href="Contact">Contact</a></li>
+         </ul>
+       </nav>
+    </header>
+      <section>
+  <ul>
+      <li>
+          <a href="img/RECEPTION%20CARD%204x5.5%20final-1.jpg">
+            <img src="img/RECEPTION%20CARD%204x5.5%20final-1.jpg" alt="Reception Logo"> <p>Experiement with color and texture. Reception card</p>
+          </a>
+      </li>
+      <li>
+          <a href="img/KR%20date.jpg">
+          <img src="img/KR%20date.jpg" alt="reception logo">
+            <p>Experiement with color and texture. Reception card</p>
+            </a>
+      </li>
+  </ul>
+     </section>
+      <footer>
+      <p>&copy; 2016 Rodel Doria.</p>
+      </footer>
+  </body>
+</html>
